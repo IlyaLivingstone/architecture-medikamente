@@ -16,7 +16,8 @@
 
 ## Откуда взялось To-Be
 
-За основу взята выданная As-Is диаграмма `project10-landscape.drawio` из описания работы.
+За основу взята выданная в описании работы As-Is диаграмма `project10-landscape.drawio.xml`
+(в репозитории она лежит как `C4_AS-IS_из_описания.drawio`).
 В ней: акторы `Patient`, `Administrator`, `Doctor`, `Cassier`, `Bookkeeper`,
 `Warehouse keeper`; системы `1C Бухгалтерия предприятия`, `1C Торговля и склад`, `ККМ`,
 `Exchange Mail Server`, `Laboratory`; и файловое хранилище (`FileServer`, папки `Journals`,
